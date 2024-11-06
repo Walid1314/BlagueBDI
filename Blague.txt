@@ -4,3 +4,6 @@ Vous connaissez la blague du mec qui a oublié d'augmenter la variable dans sa b
 Vous connaissez la blague du mec qui a oublié d'augmenter la variable dans sa boucle while ?
 Vous connaissez la blague du mec qui a oublié d'augmenter la variable dans sa boucle while ?
 Vous connaissez la blague du mec qui a oublié d'augmenter la variable dans sa boucle while ?
+
+Comment un développeur tente-t-il de réparer sa voiture lorsqu'elle a un problème ?
+Il sort de la voiture, ferme toutes les fenêtres, retourne dans la voiture, et essaie de redémarrer.
